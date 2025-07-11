@@ -11,4 +11,4 @@ while true; do
         echo "Changes committed and pushed successfully."
     fi
     sleep 5
-don
+done 
