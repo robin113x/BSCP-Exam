@@ -52,6 +52,7 @@ sqlmap -u "https://0abd00b703596627804e53f000280087.web-security-academy.net/fil
 
     Send a request with a utm_content parameter that breaks out of the reflected string and injects an XSS payload:
     GET /?utm_content='/><script>alert(1)</script>
+    
     Once your payload is cached, remove the utm_content parameter, right-click on the request, and select "Copy URL". Open this URL in the browser and check that the alert() is triggered when you load the page.
     Remove your cache buster, re-add the utm_content parameter with your payload, and replay the request until the cache is poisoned for normal users. The lab will be solved when the victim user visits the poisoned home page.
 
