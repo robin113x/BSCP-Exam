@@ -45,7 +45,7 @@ sqlmap -u "https://0abd00b703596627804e53f000280087.web-security-academy.net/fil
 
 
 
-    Observe that the home page is a suitable cache oracle. Notice that you get a cache miss whenever you change the query string. This indicates that it is part of the cache key. Also notice that the query string is reflected in the response.
+    Observe that the home page is a suitable cache oracle. N
     Add a cache-buster query parameter.
     Use Param Miner's "Guess GET parameters" feature to identify that the parameter utm_content is supported by the application.
     Confirm that this parameter is unkeyed by adding it to the query string and checking that you still get a cache hit. Keep sending the request until you get a cache miss. Observe that this unkeyed parameter is also reflected in the response along with the rest of the query string.
