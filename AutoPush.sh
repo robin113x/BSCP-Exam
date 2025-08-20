@@ -9,6 +9,7 @@ while true; do
         git add -A
         git commit -m "Robin h00d"
         git push
+        echo "Windoows "
         echo "Changes committed and pushed successfully."
     fi
     sleep 5
