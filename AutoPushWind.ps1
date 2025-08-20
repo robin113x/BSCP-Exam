@@ -11,4 +11,4 @@ while ($true) {
     Start-Sleep -Seconds 5
 }
 
-#powershell -ExecutionPolicy Bypass -File .\AutoPushWind.ps1
+# powershell -ExecutionPolicy Bypass -File .\AutoPushWind.ps1
