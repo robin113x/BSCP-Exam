@@ -2,7 +2,7 @@
 
 
 
-##
+## 1. Lab: Modifying serialized objects
 - Log in with your normal user account.
 - Check the session cookie in the /my-account request—it’s URL and Base64-encoded.
 - Decode the cookie in Burp’s Inspector. You’ll see a serialized PHP object. The admin attribute is b:0 (false).
