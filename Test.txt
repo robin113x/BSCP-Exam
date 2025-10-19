@@ -77,8 +77,8 @@ Web cache deception
 
 
 SCANNING - Enumeration
-Focus Scanning
-Scan non-standard entities
+    Focus Scanning
+    Scan non-standard entities
 FOOTHOLD - Stage 1
 Content Discovery
 DOM-XSS
