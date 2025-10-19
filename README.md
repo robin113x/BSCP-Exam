@@ -12,9 +12,9 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [ ] Scan non-standard entities
 - [ ] **FOOTHOLD - Stage 1**
 	- [x] Content Discovery
-	- [] DOM-XSS
-	- [] XSS Cross Site Scripting
-	- [] Web Cache Poison
+	- [x] DOM-XSS
+	- [x] XSS Cross Site Scripting
+	- [x] Web Cache Poison
 	- [x] Host Headers
 	- [x] HTTP Request Smuggling
 	- [x] Brute force
