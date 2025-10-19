@@ -67,3 +67,5 @@ File upload vulnerabilities
 JWT
 Essential skills
 Prototype pollution
+GraphQL API vulnerabilities
+Race conditions
