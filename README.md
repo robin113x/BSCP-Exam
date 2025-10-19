@@ -43,7 +43,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 
 
 
-Daily plan (example):
+## Daily plan (example):
 - Day 1–3: Foundations + Burp basics + XSS/CSRF labs.
 - Day 4–7: Auth/JWT/OAuth labs.
 - Day 8–12: API/GraphQL/NoSQL labs.
