@@ -65,3 +65,4 @@ Business logic vulnerabilities
 OAuth authentication
 File upload vulnerabilities
 JWT
+Essential skills
