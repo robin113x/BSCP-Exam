@@ -9,7 +9,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 ### Topic :
 - [x] **SCANNING - Enumeration**
 	- [x] Focus Scanning
-	- [ ] Scan non-standard entities
+	- [x] Scan non-standard entities
 - [ ] **FOOTHOLD - Stage 1**
 	- [x] Content Discovery
 	- [x] DOM-XSS
