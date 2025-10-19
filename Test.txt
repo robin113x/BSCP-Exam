@@ -71,3 +71,4 @@ GraphQL API vulnerabilities
 Race conditions
 NoSQL injection
 API testing
+Web LLM attacks
