@@ -57,7 +57,7 @@ Day 19–22: Business logic + race-condition attempts.
 
 Final days: Practice exam + timed mystery labs.
 
-Do the PortSwigger practice exam (timed) at least twice: once f
+
 
 
 
