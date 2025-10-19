@@ -17,7 +17,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- HTTP Request Smuggling
 	- Brute force
 	- Authentication
-- PRIVILEGE ESCALATION - Stage 2
+- **PRIVILEGE ESCALATION - Stage 2
 	- CSRF - Account Takeover
 	- Password Reset
 	- SQLi - SQL Injection
