@@ -13,8 +13,8 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 - [ ] **FOOTHOLD - Stage 1**
 	- [ ] Content Discovery
 	- [] DOM-XSS
-	- [ ] XSS Cross Site Scripting
-	- [ ] Web Cache Poison
+	- [] XSS Cross Site Scripting
+	- [] Web Cache Poison
 	- [ ] Host Headers
 	- [ ] HTTP Request Smuggling
 	- [ ] Brute force
