@@ -16,7 +16,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [x] XSS Cross Site Scripting
 	- [x] Web Cache Poison
 	- [x] Host Headers
-	- [x] HTTP Request Smuggling
+	- [ ] HTTP Request Smuggling
 	- [x] Brute force
 	- [x] Authentication
 - [ ] **PRIVILEGE ESCALATION - Stage 2**
