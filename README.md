@@ -34,7 +34,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [x] SSRF - Server side request forgery
 	- [x] SSTI - Server side template injection
 	- [ ] SSPP - Server Side Prototype Pollution
-	- [ ] LFI - File path traversal
+	- [] LFI - File path traversal
 	- [ ] File Uploads
 	- [x] Deserialization
 	- [x] OS Command Injection
