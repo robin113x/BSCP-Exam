@@ -63,3 +63,5 @@ HTTP request smuggling
 WebSockets
 Business logic vulnerabilities
 OAuth authentication
+File upload vulnerabilities
+JWT
