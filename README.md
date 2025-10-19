@@ -11,33 +11,33 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [x] Focus Scanning
 	- [ ] Scan non-standard entities
 - [ ] **FOOTHOLD - Stage 1**
-	- [ ] Content Discovery
+	- [x] Content Discovery
 	- [] DOM-XSS
 	- [] XSS Cross Site Scripting
 	- [] Web Cache Poison
-	- [ ] Host Headers
-	- [ ] HTTP Request Smuggling
-	- [ ] Brute force
-	- [ ] Authentication
+	- [x] Host Headers
+	- [x] HTTP Request Smuggling
+	- [x] Brute force
+	- [x] Authentication
 - [ ] **PRIVILEGE ESCALATION - Stage 2**
-	- [ ] CSRF - Account Takeover
-	- [ ] Password Reset
-	- [ ] SQLi - SQL Injection
+	- [x] CSRF - Account Takeover
+	- [x] Password Reset
+	- [x] SQLi - SQL Injection
 	- [ ] JWT - JSON Web Tokens
 	- [ ] Prototype pollution
 	- [ ] API Testing
-	- [ ] Access Control
+	- [x] Access Control
 	- [ ] GraphQL API Endpoints
-	- [ ] CORS - Cross-origin resource sharing
+	- [x] CORS - Cross-origin resource sharing
 - [ ] **DATA EXFILTRATION - Stage 3**
-	- [ ] XXE - XML entities & Injections
-	- [ ] SSRF - Server side request forgery
-	- [ ] SSTI - Server side template injection
+	- [x] XXE - XML entities & Injections
+	- [x] SSRF - Server side request forgery
+	- [x] SSTI - Server side template injection
 	- [ ] SSPP - Server Side Prototype Pollution
 	- [ ] LFI - File path traversal
 	- [ ] File Uploads
-	- [ ] Deserialization
-	- [ ] OS Command Injection
+	- [x] Deserialization
+	- [x] OS Command Injection
 
 
 
