@@ -17,7 +17,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- HTTP Request Smuggling
 	- Brute force
 	- Authentication
-	- PRIVILEGE ESCALATION - Stage 2
+- PRIVILEGE ESCALATION - Stage 2
 	- CSRF - Account Takeover
 	- Password Reset
 	- SQLi - SQL Injection
@@ -27,7 +27,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- Access Control
 	- GraphQL API Endpoints
 	- CORS - Cross-origin resource sharing
-	- DATA EXFILTRATION - Stage 3
+- DATA EXFILTRATION - Stage 3
 	- XXE - XML entities & Injections
 	- SSRF - Server side request forgery
 	- SSTI - Server side template injection
