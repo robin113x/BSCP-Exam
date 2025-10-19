@@ -55,3 +55,4 @@ sqlmap -u "https://0abd00b703596627804e53f000280087.web-security-academy.net/fil
 
 
 category
+
