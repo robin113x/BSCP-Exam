@@ -21,7 +21,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [x] CSRF - Account Takeover
 	- [x] Password Reset
 	- [x] SQLi - SQL Injection
-	- [ ] JWT - JSON Web Tokens
+	- [x] JWT - JSON Web Tokens
 	- [ ] Prototype pollution
 	- [ ] API Testing
 	- [x] Access Control
