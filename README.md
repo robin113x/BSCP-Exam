@@ -77,7 +77,7 @@ Made with Love
 
 Access control vulnerabilities
 Authentication
-WebSockets
+
 Web cache poisoning
 Insecure deserialization
 Information disclosure
