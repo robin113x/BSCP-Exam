@@ -42,7 +42,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [ ] WebSockets
 	- [ ] Information disclosure
 	- [ ] Business logic vulnerabilities
-	- [ ]
+	- [ ] OAuth authentication
 	- [ ]
 	- [ ]
 	- [ ]
