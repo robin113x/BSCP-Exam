@@ -37,8 +37,8 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [x] Deserialization
 	- [x] OS Command Injection
 - [ ] **OTHER**
-	- [C] Clickjacking
-	- [ ] Path traversal
+	- [X] Clickjacking
+	- [X] Path traversal
 	- [ ] WebSockets
 	- [ ] Information disclosure
 	- [ ]
