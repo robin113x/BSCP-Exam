@@ -48,8 +48,8 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [ ] Race conditions
 	- [ ] NoSQL injection
 	- [ ] API testing
-	- [ ] 
-	- [ ]
+	- [ ] Web LLM attacks
+	- [ ] Web cache deception
 
 
 
