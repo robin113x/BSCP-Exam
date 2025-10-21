@@ -49,6 +49,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [ ] NoSQL injection
 	- [ ] API testing
 	- [ ]
+		- [ ]
 
 
 
