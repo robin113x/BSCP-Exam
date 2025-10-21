@@ -68,10 +68,9 @@ Made with Love
 
 
 
-DOM-based vulnerabilities
-Cross-origin resource sharing (CORS)
-XML external entity (XXE) injection
-Server-side request forgery (SSRF)
+
+
+
 HTTP request smuggling
 OS command injection
 Server-side template injection
