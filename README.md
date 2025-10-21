@@ -43,8 +43,8 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [ ] Information disclosure
 	- [ ] Business logic vulnerabilities
 	- [ ] OAuth authentication
-	- [ ]
-	- [ ]
+	- [ ] Essential skills
+	- [ ] GraphQL API vulnerabilities
 	- [ ]
 	- [ ]
 	- [ ]
@@ -83,7 +83,7 @@ Web cache poisoning
 
 
 Prototype pollution
-GraphQL API vulnerabilities
+
 Race conditions
 NoSQL injection
 API testing
