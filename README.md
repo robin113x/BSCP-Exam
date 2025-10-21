@@ -45,7 +45,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [ ] OAuth authentication
 	- [ ] Essential skills
 	- [ ] GraphQL API vulnerabilities
-	- [ ]
+	- [ ] Race conditions
 	- [ ]
 	- [ ]
 
@@ -84,7 +84,7 @@ Web cache poisoning
 
 Prototype pollution
 
-Race conditions
+
 NoSQL injection
 API testing
 Web LLM attacks
