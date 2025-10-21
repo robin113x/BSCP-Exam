@@ -66,7 +66,7 @@ Made with Love
 
 
 
-Cross-site request forgery (CSRF)
+
 Clickjacking
 DOM-based vulnerabilities
 Cross-origin resource sharing (CORS)
