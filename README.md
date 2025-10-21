@@ -38,7 +38,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [x] OS Command Injection
 - [ ] **OTHER**
 	- [ ] Clickjacking
-	- [ ] 
+	- [ ] Path traversal
 	- [ ] 
 	- [ ]
 
@@ -74,7 +74,7 @@ Made with Love
 
 
 
-Path traversal
+
 Access control vulnerabilities
 Authentication
 WebSockets
