@@ -2,8 +2,6 @@
 
 Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 
-### Topic : 
-
 ### Topic :
 - [x] **SCANNING - Enumeration**
 	- [x] Focus Scanning
