@@ -80,11 +80,8 @@ Web cache poisoning
 
 
 
-HTTP Host header attacks
-OAuth authentication
-File upload vulnerabilities
-JWT
-Essential skills
+
+
 Prototype pollution
 GraphQL API vulnerabilities
 Race conditions
