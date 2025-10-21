@@ -59,9 +59,9 @@ Made with Love
 
 
 
- Back to all topics
-SQL injection
-Cross-site scripting
+
+
+
 Cross-site request forgery (CSRF)
 Clickjacking
 DOM-based vulnerabilities
