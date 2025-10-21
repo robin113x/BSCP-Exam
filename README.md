@@ -71,9 +71,9 @@ Made with Love
 
 
 
-HTTP request smuggling
-OS command injection
-Server-side template injection
+
+
+
 Path traversal
 Access control vulnerabilities
 Authentication
