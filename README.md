@@ -73,12 +73,11 @@ Made with Love
 
 
 
-
 Access control vulnerabilities
 Authentication
 
 Web cache poisoning
-Insecure deserialization
+
 Information disclosure
 Business logic vulnerabilities
 HTTP Host header attacks
