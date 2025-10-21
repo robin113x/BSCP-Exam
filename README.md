@@ -59,4 +59,4 @@ Scope : ```[0-9a-f]{32}\.web-security-academy\.net(/.*)?$```
 - [ ] Day 19–22: Business logic + race-condition attempts.
 - [ ] Final days: Practice exam + timed mystery labs.
 
-##### Made with Love  🥰
+##### Made with 🥰Love  🥰
