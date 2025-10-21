@@ -79,7 +79,7 @@ Authentication
 Web cache poisoning
 
 
-Business logic vulnerabilities
+
 HTTP Host header attacks
 OAuth authentication
 File upload vulnerabilities
