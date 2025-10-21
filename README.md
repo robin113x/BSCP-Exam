@@ -38,7 +38,7 @@ Scope : ```[0-9a-f]{32}\.web-security-academy\.net(/.*)?$```
 	- [X] Clickjacking
 	- [X] Path traversal
 	- [ ] WebSockets
-	- [x] Information disclosure
+	- [X] Information disclosure
 	- [ ] Business logic vulnerabilities
 	- [ ] OAuth authentication
 	- [ ] Essential skills
