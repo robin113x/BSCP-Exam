@@ -36,7 +36,8 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [ ] File Uploads
 	- [x] Deserialization
 	- [x] OS Command Injection
-- [ ] **OTHER
+- [ ] **OTHER**
+    - 
 
 
 
