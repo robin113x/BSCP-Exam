@@ -37,7 +37,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [x] Deserialization
 	- [x] OS Command Injection
 - [ ] **OTHER**
-	- [ ] 
+	- [ ] Clickjacking
 	- [ ] 
 	- [ ] 
 	- [ ]
@@ -67,7 +67,7 @@ Made with Love
 
 
 
-Clickjacking
+
 DOM-based vulnerabilities
 Cross-origin resource sharing (CORS)
 XML external entity (XXE) injection
