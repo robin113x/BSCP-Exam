@@ -78,7 +78,7 @@ Authentication
 
 Web cache poisoning
 
-Information disclosure
+
 Business logic vulnerabilities
 HTTP Host header attacks
 OAuth authentication
