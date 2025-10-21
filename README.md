@@ -41,7 +41,7 @@ Scope : [0-9a-f]{32}\.web-security-academy\.net(/.*)?$
 	- [X] Path traversal
 	- [ ] WebSockets
 	- [ ] Information disclosure
-	- [ ]
+	- [ ] Business logic vulnerabilities
 	- [ ]
 	- [ ]
 	- [ ]
