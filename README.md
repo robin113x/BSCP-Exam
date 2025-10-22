@@ -20,7 +20,7 @@ Scope : ```[0-9a-f]{32}\.web-security-academy\.net(/.*)?$```
 	- [x] Password Reset
 	- [x] SQLi - SQL Injection
 	- [x] JWT - JSON Web Tokens
-	- [ ] Prototype pollution
+	- [x] Prototype pollution
 	- [ ] API Testing
 	- [x] Access Control
 	- [ ] GraphQL API Endpoints
@@ -29,7 +29,7 @@ Scope : ```[0-9a-f]{32}\.web-security-academy\.net(/.*)?$```
 	- [x] XXE - XML entities & Injections
 	- [x] SSRF - Server side request forgery
 	- [x] SSTI - Server side template injection
-	- [X] SSPP - Server Side Prototype Pollution
+	- [x] SSPP - Server Side Prototype Pollution
 	- [x] LFI - File path traversal
 	- [ ] File Uploads
 	- [x] Deserialization
