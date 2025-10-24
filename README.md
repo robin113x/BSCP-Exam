@@ -2,6 +2,20 @@
 
 Scope : ```[0-9a-f]{32}\.web-security-academy\.net(/.*)?$```
 
+TLS Pass : 
+```
+.*\.google\.com
+
+.*\.gstatic\.com
+
+.*\.googleapis\.com
+
+.*\.pki\.goog
+
+.*\.mozilla\..*
+
+```
+
 ### Topic :
 - [x] **SCANNING - Enumeration**
 	- [x] Focus Scanning
