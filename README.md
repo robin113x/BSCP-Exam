@@ -2,7 +2,7 @@
 
 Scope : ```[0-9a-f]{32}\.web-security-academy\.net(/.*)?$```
 
-TLS Pass : 
+TLS Pass :  he action of passing data through a load balancer to a server without decrypting it
 ```
 .*\.google\.com
 
