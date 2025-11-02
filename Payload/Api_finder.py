@@ -20,8 +20,7 @@ def generate_dorks(domain):
     """Generate categorized dorks."""
     dorks = {
         "API Endpoints": [
-            f"site:{domain} inurl:api",
-        
+            f"site:{domain} api",
             f"site:{domain} inurl:api",
             f"site:{domain} inurl:/api/",
             f"site:{domain} inurl:v1 OR inurl:v2 OR inurl:v3",
