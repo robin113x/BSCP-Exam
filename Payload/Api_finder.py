@@ -30,6 +30,7 @@ def generate_dorks(domain):
         ],
 
         "API Documentation": [
+                       f"site:{domain} /swagger/index.html",
             f"site:{domain} inurl:swagger OR inurl:openapi OR inurl:api-docs",
             f"site:{domain} filetype:json inurl:swagger",
             f"site:{domain} filetype:yaml OR filetype:yml \"openapi\"",
