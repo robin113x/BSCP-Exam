@@ -21,6 +21,8 @@ def generate_dorks(domain):
     dorks = {
         "API Endpoints": [
             f"site:{domain} inurl:api",
+        
+            f"site:{domain} inurl:api",
             f"site:{domain} inurl:/api/",
             f"site:{domain} inurl:v1 OR inurl:v2 OR inurl:v3",
             f"site:{domain} inurl:rest OR inurl:graphql",
