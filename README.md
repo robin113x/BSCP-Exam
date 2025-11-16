@@ -58,7 +58,6 @@ Burp Suite under Proxy > Options > TLS Pass Through:
 	- [ ] Business logic vulnerabilities
 	- [ ] OAuth authentication
 	- [ ] Essential skills
-	- [ ] GraphQL API vulnerabilities
 	- [ ] Race conditions
 	- [ ] NoSQL injection
 	- [ ] Web LLM attacks
